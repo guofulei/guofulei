@@ -1,2 +1,3 @@
 ### Hi there 👋
 - 🤔 I’m looking for help with ...
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=guofulei)](https://github.com/anuraghazra/github-readme-stats)
