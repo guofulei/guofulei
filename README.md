@@ -15,6 +15,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=guofulei&show_icons=true&theme=synthwave)
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=guofulei&theme=xcode" /> </div>
- <img src="https://visitor-badge.glitch.me/badge?page_id=guofulei" />
